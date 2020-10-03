@@ -36,3 +36,24 @@
     transform: rotate(360deg);
   }
 }
+
+.selected{
+text-decoration: line-through;
+}
+
+.high{
+    display : inline;
+
+  background-color : green;
+}
+
+.medium{
+    display : inline;
+
+  background-color : yellow ;
+}
+
+.low{
+  display : inline;
+background-color : red ;
+}
